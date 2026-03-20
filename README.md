@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋 Let's make this world a better place, by programming one. 
 # 💫 About Me:
 🔭 I’m currently working on  
 - Backend & web development projects (FastAPI, APIs)  
@@ -47,7 +47,9 @@
 # 🚀 Projects:
 - Dependency Resolver API (FastAPI + DFS)  
   🔗 Live Demo: https://gentle-paletas-e7a10f.netlify.app/  
-
+- AI Data Analyzer  
+  🤖 AI-powered tool to analyze datasets and generate insights automatically
+  🔗 Live Demo: https://data-analyzer-eta.vercel.app
 
 ---
 
