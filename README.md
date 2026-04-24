@@ -14,7 +14,8 @@
 💬 Ask me about  
 - Python, FastAPI & Web Development  
 - SQL, Power BI & Data Visualization (tools I’ve explored)  
-- DSA (Sliding Window, Graph basics)  
+- DSA (Sliding Window, Graph basics)
+- Linkedin: https://www.linkedin.com/in/akshitasingh0502/
 
 ⚡ Fun fact  
 - I enjoy exploring different tech tools while focusing on backend development 🚀  
