@@ -5,11 +5,7 @@
 - Practicing Data Structures & Algorithms  
 
 🤝 I’m looking to collaborate on  
-- Web / Backend development projects  
-
-🆘 I’m looking for help with  
-- System Design basics  
-- Writing efficient and scalable code  
+- Web / Backend development projects   
 
 🌱 I’m currently learning  
 - Data Structures & Algorithms (DSA)  
