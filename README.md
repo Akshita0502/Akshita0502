@@ -1,29 +1,29 @@
-## Hello World 👋 Let's make this world a better place, by programming one.
+## Hello World! Let's make this world a better place, by programming one.
 
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working on
 - Full Stack Web Development (MERN Stack)
 - Building production-ready apps with JWT auth, OTP verification & REST APIs
 
-🤝 I'm looking to collaborate on
+I'm looking to collaborate on
 - Full Stack / Backend Development projects
 - Data-driven web applications
 
-🌱 I'm currently learning
+I'm currently learning
 - Advanced React patterns & state management
 - System Design & DSA
 
-💬 Ask me about
+Ask me about
 - MERN Stack (MongoDB, Express, React, Node.js)
 - REST API design, JWT Authentication, OTP Email Verification
 - Python, Data Analysis & Power BI (secondary skill)
-- DSA basics & problem solving
+- DSA & problem solving
 
-📫 Reach me at
+Reach me at
 - LinkedIn: https://www.linkedin.com/in/akshitasingh0502/
 
-⚡ Fun fact
-- I debug faster with chai ☕ than without it 🚀
+Fun fact
+- I debug faster with chai than without it!
 
 ---
 
